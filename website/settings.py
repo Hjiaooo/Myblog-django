@@ -96,7 +96,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'my_blog',        #数据库名字
         'USER': 'root',          #账号
-        'PASSWORD': '123456',      #密码
+        'PASSWORD': 'Hyj@929@',      #密码
         'HOST': '127.0.0.1',    #IP
         'PORT': '3306',                   #端口
     }
